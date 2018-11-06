@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hindi_Phrases</string>
+    <string name="hi">Hi!</string>
+    <string name="how_are_you">How Are You?</string>
+    <string name="here_is_my_address">Here is my Address</string>
+    <string name="i_write">i write</string>
+    <string name="see_you_soon">see you soon</string>
+    <string name="you_write">you write</string>
+    <string name="how_long_you_been_staying">how long you been staying</string>
+    <string name="i_read_a_sentence">i read a sentence</string>
+</resources>
